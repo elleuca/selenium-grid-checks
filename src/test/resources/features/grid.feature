@@ -11,7 +11,7 @@ Feature: Ensure Selenium Grid Works
   Scenario: Contact a Chrome Driver
     Given I perform a selenium test
     When I request a "Chrome" driver
-    Then I should be able to use "chrome" driver
+    Then I should be able to use "Chrome" driver
 
   Scenario: Contact a Firefox Driver
     Given I perform a selenium test
