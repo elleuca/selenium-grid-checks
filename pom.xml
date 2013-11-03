@@ -4,7 +4,7 @@
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>it.elleuca.selenium</groupId>
+    <groupId>me.elleuca.selenium</groupId>
     <artifactId>selenium-grid-checks</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
